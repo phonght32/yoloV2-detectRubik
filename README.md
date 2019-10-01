@@ -17,8 +17,8 @@ python3 detectRubik.py
 - Press ESC when you want to close video stream.
 - Result
 
-![result1](/home/phong/Documents/yolov2/DetectRubik/assets/result1.png)
+![result1](assets/result1.png)
 
 
 
-![result3](/home/phong/Documents/yolov2/DetectRubik/assets/result3.png)
+![result3](assets/result3.png)
